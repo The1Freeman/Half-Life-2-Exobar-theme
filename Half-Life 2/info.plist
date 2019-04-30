@@ -1,0 +1,5 @@
+{
+  author = "Gordon Freeman";
+  version = "0.0.1";
+  description = "The Half-Life 2 HUD in your statusbar.";
+}
