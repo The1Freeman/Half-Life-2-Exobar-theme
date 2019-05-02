@@ -1,10 +1,10 @@
 
 # Half-Life 2 Exobar theme
-Statusbar theme for Exobar, a jailbreak tweak made by Nepeta, making it look like the HUD found in Half-Life 2 and its Episodes (also includes shittly written HTML and CSS code!)
+Statusbar theme for Exobar, a jailbreak tweak made by [Nepeta](https://twitter.com/NepetaDev), making it look like the HUD found in [Half-Life 2](https://store.steampowered.com/app/220/HalfLife_2/) and its Episodes.
 
-This is making use of variables found within Exobar (https://docs.nepeta.me/exo/variables), so don't try to run it in your browser (unless you want to, of course, I'm not here to stop you).
+This is making use of [variables](https://docs.nepeta.me/exo/variables) found within Exobar, so don't try to run it in your browser (unless you want to, of course, I'm not here to stop you), testing however is recommended on a jailbroken iPhone with Exobar installed.
 
-To install, SSH into your iPhone, and drop the "Half-Life 2" folder inside /Library/Exobar, that's all.
+To install, SSH into your jailbroken iPhone, and drop the "Half-Life 2" folder inside /Library/Exobar, that's all.
 
 possible to-do's:
 
