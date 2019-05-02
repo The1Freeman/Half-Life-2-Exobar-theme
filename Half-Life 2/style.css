@@ -4,3 +4,90 @@ src: url("fonts/tahoma.ttf");
 font-family: "hl2time";
 src: url("fonts/hl2time.otf");
 }
+
+html,body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background: #000000;
+    color: #FFDC00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+}
+
+div {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 10px;
+}
+
+.grow {
+    flex-grow: 1;
+    font-family: 'tahoma', Arial, sans-serif;
+    margin: 0px;
+}
+
+.bg-focus {
+    background: #000000;
+    color: #FFDC00;
+    font-family: 'hl2time', Arial, sans-serif;
+    font-size: 17px;
+    margin: -10px;
+}
+.suitdisplay {
+    background: #000000;
+    color: #FFDC00;
+    font-family: 'tahoma', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    margin: 0px;
+    padding-top: 7px;
+}
+.suitdisplay2 {
+    background: #000000;
+    color: #FFDC00;
+    font-family: 'hl2time', Arial, sans-serif;
+    font-size: 17px;
+    position: relative;
+    right: 10px;
+}
+.healthdisplay {
+    background: #000000;
+    color: #FFDC00;
+    font-family: 'tahoma', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    padding-top: 7px;
+}
+.healthdisplay2 {
+    background: #000000;
+    color: #FFDC00;
+    font-family: 'hl2time', Arial, sans-serif;
+    margin: -10px;
+    font-size: 17px;
+}
+.timedisplay {
+    background: #000000;
+    color: #FFDC00;
+    font-family: 'tahoma', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 10px;
+    padding-top: 7px;
+    position: absolute;
+    right: 37px;
+}
+.timedisplay2 {
+    background: #000000;
+    color: #FFDC00;
+    font-family: 'hl2time', Arial, sans-serif;
+    font-size: 16px;
+    padding-left: 0px;
+    position: absolute;
+    right: 0px;
+}
