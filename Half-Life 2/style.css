@@ -64,6 +64,7 @@ div {
     font-weight: bold;
     font-size: 10px;
     padding-top: 7px;
+    text-transform: uppercase;
 }
 .healthdisplay2 {
     background: #000000;
