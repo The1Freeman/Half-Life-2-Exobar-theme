@@ -48,6 +48,7 @@ div {
     font-size: 10px;
     margin: 0px;
     padding-top: 7px;
+    text-transform: uppercase;
 }
 .suitdisplay2 {
     background: #000000;
@@ -82,6 +83,7 @@ div {
     padding-top: 7px;
     position: absolute;
     right: 62px;
+    text-transform: uppercase;
 }
 .timedisplay2 {
     background: #000000;
